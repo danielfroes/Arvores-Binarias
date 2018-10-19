@@ -1,10 +1,5 @@
 #include "system.h"
 
-// TODO: 
-//DONE -Insert com loop
-//DONE -Insert com recursão 
-// -Insert com ponteiro duplo
-
 int main(){
 int chave, valor;
 int loop = TRUE;
